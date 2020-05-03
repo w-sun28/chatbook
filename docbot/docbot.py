@@ -1,4 +1,4 @@
-from .api import *
+from chatbook.api import *
 import json
 
 def api_test() :

@@ -1,8 +1,9 @@
 from flask import Flask, render_template, request
 # production server
 from waitress import serve
-
 from .docbot import *
+
+doc_dir="examples/"
 
 # bot, covering content of given text file
 bots = {
@@ -31,7 +32,7 @@ bots = {
 
 def activate_bot(name) :
   if not bots[name]:
-     bots[name] = Bot("examples/"+name+".txt")
+     bots[name] = Bot(doc_dir+name+".txt")
   return bots[name]
 
 # the Flask-based Web app

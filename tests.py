@@ -3,8 +3,8 @@ import os
 
 from chatbook.talk import *
 
-from chatbook.docbot import *
-from chatbook.app import *
+from docbot.docbot import *
+from docbot.app import *
 
 doc_dir="examples/"
 doc_files = sorted(glob.glob(doc_dir+"*.txt"))

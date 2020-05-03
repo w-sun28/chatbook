@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="013e2491-fe99-4e82-9417-e5b61b04bbfe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbook/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbook/docbot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbook/static/home.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbook/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,8 +73,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.tests" />
       <item itemvalue="Python.app" />
+      <item itemvalue="Python.tests" />
     </list>
     <recent_temporary>
       <list>
@@ -99,22 +105,22 @@
       <screen x="39" y="23" width="2009" height="1129" />
     </state>
     <state x="482" y="252" key="#com.intellij.execution.impl.EditConfigurationsDialog/2048.55.1920.1057/39.23.2009.1129@39.23.2009.1129" timestamp="1588450514993" />
-    <state width="983" height="1045" key="GridCell.Tab.0.bottom" timestamp="1588455981444">
+    <state width="890" height="842" key="GridCell.Tab.0.bottom" timestamp="1588468579634">
       <screen x="39" y="23" width="2009" height="1129" />
     </state>
-    <state width="983" height="1045" key="GridCell.Tab.0.bottom/2048.55.1920.1057/39.23.2009.1129@39.23.2009.1129" timestamp="1588455981444" />
-    <state width="983" height="1045" key="GridCell.Tab.0.center" timestamp="1588455981443">
+    <state width="890" height="842" key="GridCell.Tab.0.bottom/2048.55.1920.1057/39.23.2009.1129@39.23.2009.1129" timestamp="1588468579634" />
+    <state width="890" height="842" key="GridCell.Tab.0.center" timestamp="1588468579633">
       <screen x="39" y="23" width="2009" height="1129" />
     </state>
-    <state width="983" height="1045" key="GridCell.Tab.0.center/2048.55.1920.1057/39.23.2009.1129@39.23.2009.1129" timestamp="1588455981443" />
-    <state width="983" height="1045" key="GridCell.Tab.0.left" timestamp="1588455981443">
+    <state width="890" height="842" key="GridCell.Tab.0.center/2048.55.1920.1057/39.23.2009.1129@39.23.2009.1129" timestamp="1588468579633" />
+    <state width="890" height="842" key="GridCell.Tab.0.left" timestamp="1588468579633">
       <screen x="39" y="23" width="2009" height="1129" />
     </state>
-    <state width="983" height="1045" key="GridCell.Tab.0.left/2048.55.1920.1057/39.23.2009.1129@39.23.2009.1129" timestamp="1588455981443" />
-    <state width="983" height="1045" key="GridCell.Tab.0.right" timestamp="1588455981443">
+    <state width="890" height="842" key="GridCell.Tab.0.left/2048.55.1920.1057/39.23.2009.1129@39.23.2009.1129" timestamp="1588468579633" />
+    <state width="890" height="842" key="GridCell.Tab.0.right" timestamp="1588468579633">
       <screen x="39" y="23" width="2009" height="1129" />
     </state>
-    <state width="983" height="1045" key="GridCell.Tab.0.right/2048.55.1920.1057/39.23.2009.1129@39.23.2009.1129" timestamp="1588455981443" />
+    <state width="890" height="842" key="GridCell.Tab.0.right/2048.55.1920.1057/39.23.2009.1129@39.23.2009.1129" timestamp="1588468579633" />
     <state x="651" y="281" width="744" height="612" key="find.popup" timestamp="1588454776889">
       <screen x="39" y="23" width="2009" height="1129" />
     </state>
